@@ -1,0 +1,22 @@
+# Compiled output
+a.out
+*.o
+*.out
+*.exe
+
+# Compiled binaries produced from this repo's source files
+# (gcc emits an extensionless binary named after the source file)
+bankers
+fcfs
+fork_demo
+ps
+reader
+round_robin
+sjf
+writer
+multithreads/multithreading
+multithreads/race
+
+# Editor / tooling artifacts (VS Code "Code Runner" extension)
+tempCodeRunnerFile
+tempCodeRunnerFile.c
